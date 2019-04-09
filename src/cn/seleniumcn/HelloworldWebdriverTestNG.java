@@ -20,7 +20,7 @@ public class HelloworldWebdriverTestNG {
 		
 		driver = new FirefoxDriver();
 		
-		driver.get("http://www.google.com");
+		driver.get("http://www.oooooooo.com");
 
 		
 		WebElement query = driver.findElement(By.name("wd"));
